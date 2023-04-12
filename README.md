@@ -21,7 +21,7 @@ https://github.com/ASIXGuine/m8/generate
 ## Paso a paso con docker
 
 ## Ejecutar el primer docker
-   docker run -d --name apache-container -p 8181:80 httpd:latest
+   
 
 ## Ejecutar el primer Dockerfile
 
@@ -85,6 +85,8 @@ https://github.com/ASIXGuine/m8/generate
 
 ## Configurar un docker con un servidor de streaming de video
    ### Crear el dockerfile
+
+   re
 
 
 
