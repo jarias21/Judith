@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  dlna-server:
+    image: "judith2583/ubuntu-dlna:minidlna"
+    ports:
+      - 8200:8200
+      - 1900:1900
+    volumes:
+      - "./videos:/home/judith"

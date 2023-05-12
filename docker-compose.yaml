@@ -1,8 +1,0 @@
-version: '3.8'
-services:
-  dlna-server:
-    image: "local:dlna"
-    ports:
-      - 8200:8200
-    volumes:
-      - "./media:/var/lib/minidlna"
