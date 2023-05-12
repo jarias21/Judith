@@ -1,7 +1,5 @@
 FROM ubuntu:22.04
 
-ENV DEBIAN_FRONTEND=noninteractive
-
 # Instalamos los paquetes
 RUN apt update && apt install -y minidlna supervisor
 
