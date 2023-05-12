@@ -1,5 +1,4 @@
-# Docker M8
-##
+## Docker M8
 Mostraremos como montar un servicio multimedia DLNA mediante minidlna
 
 ## Enlace para generar un clon del repo
