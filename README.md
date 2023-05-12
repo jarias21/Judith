@@ -1,10 +1,15 @@
 # Docker M8
 ##
-Introducción a Docker
-https://dev.to/pwd9000/introduction-to-github-codespaces-building-your-first-dev-container-69l
+Mostraremos como montar un servicio multimedia DLNA mediante minidlna
 
 ## Enlace para generar un clon del repo
-https://github.com/ASIXGuine/m8/generate
+1. Se clona el repositorio
+git clone https://github.com/jarias21/ubuntu-dlna.git
+
+2. Creamos la imagen del repositorio dlna-
+   sudo docker buil -t lcal:dlna
+  
+ 3. Se añade el video en el directorio
 
 ##Texto de bienvenida
 Welcome to Codespaces! You are on our default image. 
